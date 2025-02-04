@@ -22,3 +22,4 @@
 | **สุพิพัฒน์ แสงสอน** | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend |
 | **อัญชลี สกุลฑิฆัมพร** | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend รวมถึงออกแบบ UI/UX |
 | **อภิญญา แซ่อึ้ง** | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend |
+| **จารุพร ศิลารัตน์ง** | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend |
